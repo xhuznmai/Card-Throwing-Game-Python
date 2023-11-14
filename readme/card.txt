@@ -1,0 +1,30 @@
+Types of Card:
+#Different types of card contains different roles, stats and skills
+
+*Roles:
+Attack Card:
+These cards could deal damage to enemies when they hit.
+They may have different attack strengths and special abilities.
+
+    Speciality:
+        +Only damage stat, 0 or very few defense
+        +Mana cost depends mostly on damage
+        +Most crucial card type
+
+
+Defense Card:
+These cards could provide some form of protection or shielding to the player.
+They might reduce damage taken from enemies or have other defensive effects.
+
+    Speciality:
+        +Only defense stat, no attack stat
+        +Mana cost depends mostly on defense
+        +Second most crucial card type
+
+Healing Card:
+These cards could restore the player's health or provide some form of healing effect.
+They might be crucial for sustaining the player's survivability.
+
+Buff/Debuff Card:
+Buff cards could enhance the player's abilities or stats temporarily,
+while debuff cards could weaken enemies or hinder their abilities.
